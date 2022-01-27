@@ -7,15 +7,16 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+<a href="user1.jpg">
+title:            Lyrrael
+tagline:          'A Portfolio'
+description:      'A Portfolio'
+url:              http://lyrrael.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Amanda'
+  url:            https://twitter.com/lyrrael
 
 paginate:         5
 
