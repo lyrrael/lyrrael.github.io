@@ -7,7 +7,7 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-<a href="user1.jpg">
+userpic:          <a href="user1.jpg">
 title:            Lyrrael
 tagline:          'A Portfolio'
 description:      'A Portfolio'
