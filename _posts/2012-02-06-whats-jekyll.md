@@ -1,12 +1,21 @@
 ---
 layout: post
-title: What's Jekyll?
+title: Hey, I'm Amanda
 ---
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+I’m looking to change things up. Now that I’m in Seattle and settled, it’s time to start planning ahead.
 
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+This is where I’m going:
 
-It's an immensely useful tool and one we encourage you to use here with Hyde.
+- I’m currently working on brushing up my math skills and embarking on learning Python.
+- I’d like to eventually get into data science and engineering. There’s a lot of cool stuff out there, and I’d like to be involved.
 
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+
+This is where I’ve been:
+
+- Graduated with a BA in history
+- Studied political science at a master’s level
+- Joined the Peace Corps, where I served in Chengdu, China, teaching English at Southwest University for Nationalities.
+- Came back and ran the hometown newspaper for eight years.
+
+And now it’s my time to make a change.
