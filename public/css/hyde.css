@@ -99,7 +99,8 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 .sidebar-nav-social {
-  display: inline 
+  display: inline
+  whitespace: nowrap
 }
 
 /* Sticky sidebar
