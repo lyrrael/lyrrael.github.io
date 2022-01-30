@@ -10,8 +10,9 @@
       <p class="lead">{{ site.description }}</p>
     </div>
 
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item" href="https://github.com/lyrrael" target="blank"><img src="{{ site.baseurl }} public/github@2x.png" alt="Github" width="40" height="40"></a><a class="sidebar-nav-item" href="https://twitter.com/lyrrael" target="blank"><img src="{{ site.baseurl }} public/twitter@2x.png" alt="Github" width="40" height="40"></a>
+    
+      <a href="https://github.com/lyrrael" target="blank"><img src="{{ site.baseurl }} public/github@2x.png" alt="Github" width="40" height="40"></a>
+      <a href="https://twitter.com/lyrrael" target="blank"><img src="{{ site.baseurl }} public/twitter@2x.png" alt="Github" width="40" height="40"></a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -27,7 +28,7 @@
         {% endif %}
       {% endfor %}
 
-    </nav>
+    
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
